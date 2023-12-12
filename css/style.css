@@ -168,7 +168,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(haloinfinite.png);
+    background-image: url(..images/haloinfinite.png);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
